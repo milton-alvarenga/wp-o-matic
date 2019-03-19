@@ -2001,4 +2001,4 @@ class WPOMatic {
   }
 }
 
-$wpomatic = & new WPOMatic();
+$wpomatic = new WPOMatic();
