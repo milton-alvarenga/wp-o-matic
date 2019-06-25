@@ -32,6 +32,7 @@ Supported features:
 
 Upcoming features:
 
+* Ignore html changes on title
 * Improved export (to include campaign options, with an extended OPML)
 * Image thumbnailing
 * Improved importing with drag and drop
